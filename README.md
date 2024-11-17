@@ -1,18 +1,25 @@
-## 👋 Welcome to [M SAIFUL ISLAM!](https://msaifulislam.com/)
+## 👋 Welcome to [M SAIFUL ISLAM!](https://msaifulislam.net/)
 
-Here something about me:
-- 🔭 I’m currently working at [SoftifyBD Limited](https://softifybd.com/) as a Full Stack Software Engineer(.Net & Core)  
-- :muscle: I’m very skilled in C#, Asp.Net MVC, Asp.Net Core and MSSQL Server, Application Architecture Design, Development and Windows Server Maintenance
-- 🌱 I’m currently learning on **Microservice Architecture, Design Pattenrs, Machine Learning & Data Science Using Python**
-- 💬 Ask me about: Development :)
-- 👯 I’m looking to collaborate on **Microservice Oriented Large Scalable Enterprise Application**
-- 🤔 I’m looking for National/International/Remote Job with the designation of **_Software Engineer_**, **_Sr. Software Engineer_** or **_Team Leader_** in microsoft .Net platform
-- ⚡ Check my repos specially [Ticket & Travel Management](https://github.com/msaifulcsse/Ticket-Travel-Management-System), [E-Learning Management](https://github.com/msaifulcsse/E-Learning-Management-System) and [Online Quiz Testing System](https://github.com/msaifulcsse/Online-Quiz-Test-Management-System)
+### About Me:
+- 🔭 I’m currently working at [SoftifyBD Limited](https://softifybd.com/) as a **Software Engineering Manager** specializing in C#, .NET/.NET Core, RDBMS, React/Angular, and DevOps.
+- 💪 Highly skilled in **C#, ASP.NET MVC, ASP.NET Core, MSSQL Server**, application architecture design, development, and **Windows Server maintenance**.
+- 🌱 Currently expanding my expertise in **Microservice Architecture, Design Patterns, Machine Learning, and Data Science using Python**.
+- 💬 Ask me anything related to **development and software engineering**!
+- 👯 I’m looking to collaborate on **large-scale, microservice-oriented enterprise applications**.
+- 🤔 Open for **national/international/remote job opportunities** as a **Software Engineer, Senior Software Engineer, or Team Leader** within the Microsoft .NET ecosystem.
+- ⚡ Check out my repositories:
+  - [Ticket & Travel Management System](https://github.com/msaifulcsse/Ticket-Travel-Management-System)
+  - [E-Learning Management System](https://github.com/msaifulcsse/E-Learning-Management-System)
+  - [Online Quiz Testing System](https://github.com/msaifulcsse/Online-Quiz-Test-Management-System)
 
-### Follow me on my social networks:
-[![Website Badge](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=44cc11)](https://msaifulislam.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msaifulcsse/)](https://www.linkedin.com/in/msaifulcsse/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/msaifulcsse)](https://github.com/msaifulcsse)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/msaifulcsse/)](https://www.facebook.com/msaifulcsse/)
-[![Youtube Badge](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC6ryL4wh6LqHqxbhgau_czQ&key=AIzaSyDjTwHoMm0lKINGJKOKBu2Ln5AfO92tUXE&label=Subscribe&color=44cc11&logoColor=white&labelColor=cc0000)](https://www.youtube.com/c/MDSAIFULISLAMBD)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/msaifulcsse)](https://twitter.com/msaifulcsse)
+### Follow Me on Social Networks:
+[![Website Badge](https://img.shields.io/badge/Website-Up-brightgreen)](https://msaifulislam.net/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/msaifulcsse/)](https://www.linkedin.com/in/msaifulcsse/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/msaifulcsse)](https://github.com/msaifulcsse)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/msaifulcsse/)](https://www.facebook.com/msaifulcsse/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/MDSAIFULISLAMBD)](https://www.youtube.com/c/MDSAIFULISLAMBD)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/msaifulcsse)](https://twitter.com/msaifulcsse)
+
+---
+
+Feel free to connect and explore my work or get in touch for collaboration opportunities!
