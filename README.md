@@ -12,8 +12,7 @@
 
 ---
 
-## 🚀 About Me
-
+<h1 align="center">🚀 About Me</h1>
 <div align="center">
 
 > *"Great software is born at the intersection of strong architecture, clean code, and collaborative teamwork."*
@@ -22,8 +21,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 </div>
 
-### 🔭 Current Focus
-
+<h2 align="center">🔭 Current Focus</h2>
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -34,7 +32,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
       <sub>Scalable microservices architectures</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/mentor.png" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/teaching.png" width="40" />
       <br>
       <strong>Mentoring Developers</strong>
       <br>
@@ -48,7 +46,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
       <sub>Enterprise .NET applications</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/continuous-deployment.png" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/automation.png" width="40" />
       <br>
       <strong>DevOps Automation</strong>
       <br>
@@ -57,8 +55,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
   </tr>
 </table>
 
-### 🌟 Core Expertise
-
+<h2 align="center">🌟 Core Expertise</h2>
 <table align="center">
   <tr>
     <td align="center" width="20%">
@@ -101,7 +98,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h1 align="center">🛠️ Tech Stack & Tools</h1>
 
 <div align="center">
 
@@ -133,11 +130,15 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/VPS%20Cloud-0052CC?style=for-the-badge&logo=digitalocean&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### 🔧 Development Tools & Platforms
 
@@ -161,16 +162,14 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 ---
 
-## 🏆 GitHub Trophies
-
+<h1 align="center">🏆 GitHub Trophies</h1>
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=msaifulcsse&row=2&column=6&margin-w=20&margin-h=20&theme=onedark)](https://github.com/msaifulcsse/github-profile-trophy)
 
 </div>
 
-## 📊 GitHub Analytics
-
+<h1 align="center">📊 GitHub Analytics</h1>
 <table width="100%" align="center">
   <tr>
     <td width="50%">
@@ -204,16 +203,14 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 ---
 
-## 📈 Contribution Graph
-
+<h1 align="center">📈 Contribution Graph</h1>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaifulcsse&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
 ---
 
-## 📜 Holopin Badges
-
+<h1 align="center">📜 Holopin Badges</h1>
 <div align="center">
 <a href='https://holopin.io/@msaifulcsse'>
     <img src='https://holopin.me/msaifulcsse' alt='Holopin Badges'/>
@@ -222,8 +219,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 ---
 
-## 🌐 Connect With Me
-
+<h1 align="center">🌐 Connect With Me</h1>
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-msaifulislam.net-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://msaifulislam.net/)
@@ -238,16 +234,15 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
 
 ---
 
-## 💼 Open for Opportunities
+<h1 align="center">💼 Open for Opportunities</h1>
 
 <div align="center">
 
-### 🚀 Seeking Challenging Roles in .NET Ecosystem
-
+<h2 align="center">🚀 Seeking Challenging Roles in .NET Ecosystem</h2>
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/architecture.png" width="45" />
+ <img src="https://img.icons8.com/color/48/000000/blueprint.png" width="45" />
       <br>
       <strong>Software Architect</strong>
       <br>
@@ -285,8 +280,7 @@ I'm a **Software Engineering Manager** at [SoftifyBD Limited](https://softifybd.
   </tr>
 </table>
 
-### 💡 What I Bring to Your Team
-
+<h2 align="center">💡 What I Bring to Your Team</h2>
 <table align="center">
   <tr>
     <td align="center" width="20%">
