@@ -308,46 +308,55 @@ Key experience includes:
 
 ---
 
-## 📊 GitHub Analytics
-
+## 🏆 GitHub Trophies
 <div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaifulcsse&count_private=true&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=msaifulcsse&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-
-<br><br>
-
-<img align="center" style="width: 475px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaifulcsse&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=msaifulcsse&row=2&column=6&margin-w=20&margin-h=20&theme=onedark)](https://github.com/msaifulcsse/github-profile-trophy)
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=msaifulcsse&row=2&column=6&margin-w=20&margin-h=20&theme=onedark)](https://github.com/msaifulcsse/github-profile-trophy)
-
-</div>
+## 📊 GitHub Analytics
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=msaifulcsse&count_private=true&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <img align="center" src="https://streak-stats.demolab.com?user=msaifulcsse&theme=nightowl&hide_border=true" alt="Streak Stats" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Most Used Languages</strong></h3>
+      <p align="center">
+        <img align="center" style="width: 475px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaifulcsse&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Top Contributions</strong></h3>
+      <p align="center">
+        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=msaifulcsse&limit=3&theme=nightowl&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributions" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaifulcsse&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
 ---
 
----
-
 ## 📜 Holopin Badges
-
 <div align="center">
 <a href='https://holopin.io/@msaifulcsse'>
     <img src='https://holopin.me/msaifulcsse' alt='Holopin Badges'/>
