@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering Manager and Full-Stack Software Engineer** with **7+ years of professional experience** designing, developing, and delivering scalable business applications, SaaS platforms, CRM/ERP systems, and enterprise web solutions.
+I'm a **Software Engineering Manager and Full-Stack Software Engineer** with **8+ years of professional experience** designing, developing, and delivering scalable business applications, SaaS platforms, CRM/ERP systems, and enterprise web solutions.
 
 My primary engineering track is **C# / .NET / ASP.NET Core**, with strong hands-on experience in **REST APIs, PostgreSQL, relational database design, Clean Architecture, multi-tenant systems, authentication/authorization, cloud deployment, and CI/CD**.
 
